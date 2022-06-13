@@ -18,6 +18,7 @@ const nextConfig = {
       'i.pravatar.cc',
       'localhost:8000',
       'localhost:3000',
+      'dataguru.herokuapp.com',
     ],
   },
   ...(process.env.FRAMEWORK_PROVIDER === 'graphql' && {
