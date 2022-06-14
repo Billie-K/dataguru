@@ -63,6 +63,7 @@
     "sharp": "^0.30.1",
     "swiper": "^7.4.1",
     "tiny-invariant": "^1.2.0",
+    "typescript": "4.5.5",
     "yup": "^0.32.11"
   },
   "devDependencies": {
