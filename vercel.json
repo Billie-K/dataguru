@@ -1,27 +1,27 @@
 {
   "env": {
     "FRAMEWORK_PROVIDER": "rest",
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://dataguru.herokuapp.com/api",
     "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "",
-    "NEXT_PUBLIC_SITE_URL": "",
+    "NEXT_PUBLIC_SITE_URL": "https://dataguru.vercel.com",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
-    "NEXTAUTH_URL": "",
+    "NEXTAUTH_URL": "https://dataguru.vercel.com",
     "SECRET": "",
-    "GOOGLE_CLIENT_ID": "",
-    "GOOGLE_CLIENT_SECRET": "",
+    "GOOGLE_CLIENT_ID": "206277479195-ols8b5ns2u2t6kl2563m1d9hfc3c4db1.apps.googleusercontent.com",
+    "GOOGLE_CLIENT_SECRET": "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",
     "NEXT_PUBLIC_ADMIN_URL": ""
   },
   "build": {
     "env": {
       "FRAMEWORK_PROVIDER": "rest",
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://dataguru.herokuapp.com/api",
       "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "",
-      "NEXT_PUBLIC_SITE_URL": "",
+      "NEXT_PUBLIC_SITE_URL": "https://dataguru.vercel.com",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
-      "NEXTAUTH_URL": "",
+      "NEXTAUTH_URL": "https://dataguru.vercel.com",
       "SECRET": "",
-      "GOOGLE_CLIENT_ID": "",
-      "GOOGLE_CLIENT_SECRET": "",
+      "GOOGLE_CLIENT_ID": "206277479195-ols8b5ns2u2t6kl2563m1d9hfc3c4db1.apps.googleusercontent.com",
+      "GOOGLE_CLIENT_SECRET": "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",
       "NEXT_PUBLIC_ADMIN_URL": ""
     }
   }

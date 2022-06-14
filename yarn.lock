@@ -2235,6 +2235,11 @@
     "@typescript-eslint/types" "5.9.1"
     eslint-visitor-keys "^3.0.0"
 
+"@vercel/next@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@vercel/next/-/next-3.0.1.tgz#2dab1538854bfe7079baaae41ebb3a3783b89e14"
+  integrity sha512-A4JGh2gj//Yn2E8IfhaDwJ5n5zwQ6QtqeUn2o9KlrSr3gJJ3dv3fafsDgSW3wHMs/p/ifVEdB034XBofGSe4xA==
+
 "@wry/context@^0.6.0":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@wry/context/-/context-0.6.1.tgz#c3c29c0ad622adb00f6a53303c4f965ee06ebeb2"
