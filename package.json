@@ -21,6 +21,7 @@
     "@reach/portal": "^0.16.2",
     "@stripe/react-stripe-js": "^1.7.0",
     "@stripe/stripe-js": "^1.22.0",
+    "@types/react": "17.0.39",
     "apollo-upload-client": "^17.0.0",
     "axios": "^0.25.0",
     "body-scroll-lock": "^4.0.0-beta.0",
